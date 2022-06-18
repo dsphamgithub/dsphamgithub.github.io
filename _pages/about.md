@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.ieee.org/membership/senior/'>Senior Member, IEEE</a> <a href='https://www.giac.org/certifications/information-security-fundamentals-gisf/'>GIAC GISF</a>. 
+subtitle: <a href='https://www.ieee.org/membership/senior/'>Senior Member, IEEE</a> , <a href='https://www.giac.org/certifications/information-security-fundamentals-gisf/'>GIAC GISF</a>. 
 profile:
   align: right
   image: prof_pic.jpg
