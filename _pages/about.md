@@ -20,7 +20,7 @@ Hi, my name is Sonny Pham, a Senior Member of the IEEE. I am an academic staff w
 * I am leading my IAMAI research group consisting of talented students solving challenging real-world problems.
 * I am a member of [SMAAT](https://smaat.org), an international collaborative research group aiming at developing technologies to help speech language pathologists detect and treat children with speech sound disorders (SSDs)
 * I am the Course Coordinator, [Master of AI](https://study.curtin.edu.au/offering/course-pg-master-of-artificial-intelligence--mc-aintl)
-* I am a co-founder of two successful starts up: [iCetana](https://icetana.com) and [HyprFire](https://hyprfire.com)
+* I am a co-founder of two successful start-ups: [iCetana](https://icetana.com) and [HyprFire](https://hyprfire.com)
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
