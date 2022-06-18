@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, my name is Sonny Pham, a Senior Member of the IEEE. I am an academic staff with the School of EECMS at [Curtin University](https://www.curtin.edu.au). I am passionate about making impact to the real world using advances in Artificial Intelligence. Some more about myself
 * I am leading my IAMAI research group consisting of talented students solving challenging real-world problems.
-* I am a member of [SMAAT](https://smaat.org), an international collaborative research group aiming at developing technologies to help speech language pathologists to detect and treat children with speech sound disorders (SSDs)
+* I am a member of [SMAAT](https://smaat.org), an international collaborative research group aiming at developing technologies to help speech language pathologists detect and treat children with speech sound disorders (SSDs)
 * I am the Course Coordinator, [Master of AI](https://study.curtin.edu.au/offering/course-pg-master-of-artificial-intelligence--mc-aintl)
 * I am a co-founder of two successful starts up: [iCetana](https://icetana.com) and [HyprFire](https://hyprfire.com)
 
