@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A long announcement with details
+title: A successful MRFF Grant 2022
 date: 2022-06-01 12:00:00-0000
 inline: false
 ---
