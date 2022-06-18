@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
+subtitle: <a href='#'>Affiliations</a>. Senior Member, IEEE. GIAC GISF. 
 profile:
   align: right
   image: prof_pic.jpg
