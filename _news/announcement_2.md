@@ -1,31 +1,26 @@
 ---
 layout: post
 title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+date: 2022-06-01 12:00:00-0000
 inline: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+Our [SMAAT](http://smaat.org) team led by [Dr Roslyn Ward](https://staffportal.curtin.edu.au/staff/profile/view/roslyn-ward-d3ee58ed/) has been awarded an [MRFF](https://www.greghunt.com.au/10-7-million-to-advance-australian-neurological-research/) grant from the federal government. This much needed funding will help us develop cutting-edge solutions for children with [speech sound disorders](https://news.curtin.edu.au/media-releases/app-to-enable-early-diagnosis-and-intervention-for-speech-impairment/).
 
 ***
+Project Title: Developmental Delay: Enabling early and accurate detection of speech impairment through a web-based assessment application 	
+Organisation: Curtin University 	
+Grant value: $312,583.90
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+Funded as part of the Medical Research Future Fund grants and led by Dr Roslyn Ward from the Curtin School of Allied Health, the project will develop an assessment tool for accurate diagnosis to enable targeted early intervention and better outcomes.
 
-#### Hipster list
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+Dr Ward said that children with speech impairment were at risk of serious educational disadvantage and social isolation, which could negatively impact their quality of life and contribute to long-term economic burden.
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+“Early identification of speech impairment followed by the right intervention is critical to mitigating these long-term consequences,” Dr Ward said.
 
-***
+“However, current clinical practice relies on often lengthy and subjective measures that are vulnerable to bias, leading to problems such as potential misdiagnosis and delaying the provision of the right intervention.
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+“There is an urgent need to replace these practices with efficient and objective diagnostic tools that can also be administered remotely.”
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
+The Medical Research Future Fund provides grants to support health and medical research and innovation, with the aim of improving the health and wellbeing of Australians.
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
