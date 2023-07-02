@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I am an [academic staff](https://staffportal.curtin.edu.au/staff/profile/view/sonny-pham-6383d305/) with the School of EECMS at [Curtin University](https://www.curtin.edu.au). I am passionate about making impact to the real world using advances in Artificial Intelligence. Some more about myself:
-* I am the lead of IAMAI, a research group  of Computing staff and talented students solving challenging real-world problems using AI.
+* I am the lead of [IAMAI](https://dsphamgithub.github.io/iamai/), a research group  of Computing staff and talented students solving challenging real-world problems using AI.
 * I am a member of [SMAAT](https://smaat.org), an international collaborative research group aiming at developing technologies to help speech language pathologists detect and treat children with speech sound disorders (SSDs)
 * I am the Course Coordinator, [Master of AI](https://study.curtin.edu.au/offering/course-pg-master-of-artificial-intelligence--mc-aintl) and Major Coordinator of [Master of Computing](https://www.curtin.edu.au/study/offering/course-pg-master-of-computing--mc-comp/) [AI Major](https://www.curtin.edu.au/study/offering/course-pg-artificial-intelligence-major-m-comp--mjrp-aintl/)
 * I am a co-founder of two successful start-ups: [iCetana](https://icetana.com) and [HyprFire](https://hyprfire.com)
