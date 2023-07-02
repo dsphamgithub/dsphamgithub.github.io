@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='https://www.ieee.org/membership/senior/'>Senior Member, IEEE</a> , <a href='https://www.giac.org/certifications/information-security-fundamentals-gisf/'>GIAC GISF</a>. 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: iamai_logo_blue_large.png
   address: >
     <p>School of EECMS</p>
     <p>Curtin University</p>
