@@ -4,6 +4,7 @@ title: IAMAI
 permalink: /iamai/
 description: the IAMAI research group at Curtin University
 subtitle: sustAInable research
+img: /assets/img/iamai_logo_blue_large.png
 profile:
   align: right
   image: iamai_logo_blue_large.png
